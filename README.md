@@ -12,6 +12,4 @@ This repository contains detailed documentation of various Linux Administration 
 6. [Linux Processes and Services](Lab-Documentation/6-Linux%20Processes%20and%20Services.docx)
 7. [Linux Network Services](Lab-Documentation/7-Linux%20Network%20Services.docx)
 
-## Screenshots
 
-Screenshots for each lab are stored in the [Screenshots](Screenshots/) folder.
